@@ -1,2 +1,2 @@
 [appserver]
-143.198.158.249
+143.198.158.249 ansible_user=archsiri
