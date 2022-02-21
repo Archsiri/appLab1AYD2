@@ -1,6 +1,6 @@
 ---
 - hosts: appserver
-  task:
+  tasks:
     - name: Copy files to remote host
       copy:
         src: dist/lab1ayd2
