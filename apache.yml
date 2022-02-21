@@ -3,5 +3,5 @@
   tasks:
     - name: Copy files to remote host
       copy:
-        src: dist/lab1ayd2
+        src: /var/lib/jenkins/workspace/Lab1-AYD2/dist/lab1ayd2
         dest: /var/www/html
